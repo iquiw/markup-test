@@ -15,6 +15,11 @@ Chapter
        "just a test"
        print 8/2
 
+.. code:: emacs-lisp
+
+   (add-to-list 'company-backends 'company-ghc)
+
+
 Section
 -------
 link: Google_
