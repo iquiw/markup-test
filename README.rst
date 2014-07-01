@@ -32,6 +32,7 @@ image: |lazycat|
              :alt: Lazy Cat
 
 .. class:: table
+.. _tables:
 
 tables
 ~~~~~~
