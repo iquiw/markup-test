@@ -1,6 +1,6 @@
-=======
- Title
-=======
+=================
+ Title |travis|_
+=================
 
 .. sectnum::
 .. contents::
@@ -8,11 +8,6 @@
 
 Chapter
 =======
-
-Travis status is here |travis|_
-
-.. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.png?branch=travis-ci
-.. _travis: https://travis-ci.org/iquiw/jsonconfig-mode
 
 
 .. code:: python
@@ -62,4 +57,6 @@ tables
    "Gannet Ripple", 1.99, "On a stick!"
 
 .. _Google: https://www.google.com
+.. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.png?branch=travis-ci
+.. _travis: https://travis-ci.org/iquiw/jsonconfig-mode
 
