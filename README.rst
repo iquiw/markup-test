@@ -9,6 +9,11 @@
 Chapter
 =======
 
+Travis status is here |travis|
+
+.. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.png?branch=master
+
+
 .. code:: python
 
    def my_function():
