@@ -1,6 +1,6 @@
-=================
- Title |travis|_
-=================
+================
+ Title |travis|
+================
 
 .. sectnum::
 .. contents::
@@ -58,5 +58,5 @@ tables
 
 .. _Google: https://www.google.com
 .. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.svg
-.. _travis: https://travis-ci.org/iquiw/jsonconfig-mode
+            :target: https://travis-ci.org/iquiw/jsonconfig-mode
 
