@@ -11,7 +11,8 @@ Chapter
 
 Travis status is here |travis|
 
-.. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.png?branch=master
+.. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.png?branch=travis-ci
+.. _travis: https://travis-ci.org/iquiw/jsonconfig-mode
 
 
 .. code:: python
