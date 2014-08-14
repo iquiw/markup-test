@@ -54,9 +54,11 @@ tables
    "Albatross", 2.99, "On a stick!"
    "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
    crunchy, now would it?"
-   "Gannet Ripple", 1.99, "On a stick!"
+   "Gannet Ripple", 1.99, "On a stick!, br |br| in |br| table"
 
 .. _Google: https://www.google.com
 .. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.svg
             :target: https://travis-ci.org/iquiw/jsonconfig-mode
+.. |br| raw:: html
 
+   <br/>
