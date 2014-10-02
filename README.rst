@@ -34,7 +34,9 @@ image: |lazycat|
              :alt: Lazy Cat
 
 Before include
+
 .. include:: other.txt
+
 After include
 
 .. class:: table
