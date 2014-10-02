@@ -33,6 +33,10 @@ image: |lazycat|
 .. |lazycat| image:: lazycat.png
              :alt: Lazy Cat
 
+Before include
+.. include:: other.txt
+After include
+
 .. class:: table
 .. _tables:
 
@@ -63,5 +67,3 @@ tables
 .. |br| raw:: html
 
    <br/>
-
-.. include:: other.txt
