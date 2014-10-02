@@ -63,3 +63,5 @@ tables
 .. |br| raw:: html
 
    <br/>
+
+.. include:: other.txt
