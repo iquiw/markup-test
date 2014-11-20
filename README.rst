@@ -1,6 +1,6 @@
-================
- Title |travis|
-================
+========================
+ Title |travis| |melpa|
+========================
 
 .. sectnum::
 .. contents::
@@ -66,6 +66,8 @@ tables
 .. _Google: https://www.google.com
 .. |travis| image:: https://api.travis-ci.org/iquiw/jsonconfig-mode.svg
             :target: https://travis-ci.org/iquiw/jsonconfig-mode
+.. |melpa| image:: http://melpa.org/packages/company-ghc-badge.svg
+           :target: http://melpa.org/#/company-ghc
 .. |br| raw:: html
 
    <br/>
