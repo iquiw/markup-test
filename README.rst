@@ -21,6 +21,14 @@ Chapter
 
    (add-to-list 'company-backends 'company-ghc)
 
+configuration
+-------------
+
+.. csv-table:: Customization
+   :header: "Variable", "Description", "Default"
+
+   "company-cabal-field-value-offset","Specify column offset filled after field name completion.",21
+   "company-cabal-version-modifier","Specify version modifier function for post completion of package name.",'company-cabal-version-major-lower
 
 Section
 -------
