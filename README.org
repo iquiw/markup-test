@@ -1,0 +1,19 @@
+#+TITLE: Org-mode Title
+#+AUTHOR: Author
+
+#+TOC: headlines 2
+
+* Markup
+
+** Inline
+*bold*, /italic/, _underline_, =verbatim=, ~code~, +strike-through+.
+** HTML export
+@@html:<kbd>h</kbd>@@
+
+* Table
+
+#+CAPTION: This is a table.
+#+NAME: Table Name
+| Header 1 | Header 2 |
+|----------+----------|
+| Body 1   | Body 2   |
