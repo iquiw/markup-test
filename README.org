@@ -1,5 +1,6 @@
 #+TITLE: Org-mode Title
 #+AUTHOR: Author
+#+MACRO: kbd @@html:<kbd>@@$1@@html:</kbd>@@
 
 #+TOC: headlines 2
 
@@ -9,6 +10,7 @@
 *bold*, /italic/, _underline_, =verbatim=, ~code~, +strike-through+.
 ** HTML export
 @@html:<kbd>h</kbd>@@
+with macro {{kbd(a)}}
 
 * Table
 
