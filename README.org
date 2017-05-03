@@ -2,6 +2,8 @@
 #+AUTHOR: Author
 #+MACRO: kbd @@html:<kbd>@@$1@@html:</kbd>@@
 
+[[https://travis-ci.org/iquiw/mivi][file:https://travis-ci.org/iquiw/mivi.svg?branch=master]]
+
 #+TOC: headlines 2
 
 * Markup
