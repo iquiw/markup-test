@@ -1,5 +1,7 @@
 = AsciiDoc Title
 
+https://travis-ci.org/iquiw/mivi:[https://travis-ci.org/iquiw/mivi.svg?branch=master]
+
 == Markup
 
 === Inline
